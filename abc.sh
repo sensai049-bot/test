@@ -10,7 +10,6 @@ export NEW_FALCON_CLIENT_ID="c437327aad8a4e8f9135c45d7a379386"
 export NEW_FALCON_CLIENT_SECRET="HEvfkqpuJF4QmI7twrTLaxRKM9o185206g3XzBYc"
 export NEW_FALCON_CLOUD="eu-1"
 export FALCON_REMOVE_HOST="true"
-export FALCON_MAINTENANCE_TOKEN="3e052e6ffe08d5e0cf904e48ddfa971e8374a1c66530e76f9793d0032759a9b5"
 export LOG_PATH="/tmp" 
 LOG=/tmp/falcon_migrate_$(date +%Y%m%d_%H%M%S).log
 MIG=/tmp/falcon-linux-migrate.sh
